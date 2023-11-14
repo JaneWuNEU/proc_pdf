@@ -1,0 +1,6 @@
+citation_info: the original files
+citation_rename_info: rename the original files by the papers' complete title
+fellow_results: the result organized by module and list
+Note that both the ":" and "-" in the paper title is replaced by "".
+
+our_paper_info is used to exacted the info such as title, author list, and module of our published papers.

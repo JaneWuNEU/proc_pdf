@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@e243df8c-a5b2-4e97-b7c1-1ea63eab8c24" />
+        <remote-mappings server-id="python@sftp://wujing@192.168.1.65:22/home/wujing/anaconda3/envs/pytorch_pro/bin/python3">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/wujing/Projects/proc_pdf" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
